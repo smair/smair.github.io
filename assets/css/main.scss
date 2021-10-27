@@ -18,3 +18,16 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+
+
+.social {
+  .contact-icons {
+    font-size: 2rem;
+  }
+}
+
+body {
+    font-family: "Fira Sans",sans-serif;
+    font-weight: 300;
+}
