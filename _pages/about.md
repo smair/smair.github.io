@@ -60,9 +60,9 @@ I am interested in unsupervised learning, representation learning, representativ
   <li>
     S. Mair and U. Brefeld. <a href="http://ml3.leuphana.de/publications/neurips2019.pdf">Coresets for Archetypal Analysis</a>. Advances in Neural Information Processing Systems, 2019.
     [<a href="https://papers.nips.cc/paper/8945-coresets-for-archetypal-analysis">link</a>]
-    [<a href="publications/neurips2019supplement.pdf">supplement</a>]
+    [<a href="http://ml3.leuphana.de/publications/neurips2019supplement.pdf">supplement</a>]
     [<a href="https://github.com/smair/archetypalanalysis-coreset">code</a>]
-    [<a href="publications/neurips2019poster.pdf">poster</a>]
+    [<a href="http://ml3.leuphana.de/publications/neurips2019poster.pdf">poster</a>]
   </li>
 
   <li>
