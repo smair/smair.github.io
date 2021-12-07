@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: Research Associate @ <a href="http://www.leuphana.de/en/home.html">Leuphana University</a>
+description: Postdoctoral Researcher # @ <a href="http://www.leuphana.de/en/home.html">Leuphana University</a>
 
 profile:
   align: right
-  image: Sebastian.jpg
+  image: sebastian.jpeg
   address: >
-    <p>Leuphana University</p>
-    <p>Office C4.308a</p>
-    <p>Lüneburg, Germany</p>
+#    <p>Uppsala University</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,9 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 ### about me
 
-I am a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
+I am a postdoctoral researcher at the [Department of Information Technology](https://www.it.uu.se/) at [Uppsala University](https://www.uu.se/en). 
 
-Prior to my PhD studies, I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
+Prior to joining Uppsala University, I was a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
+
+I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
 
 
 ### research interests
@@ -32,6 +32,10 @@ I am interested in unsupervised learning, representation learning, representativ
 ### publications
 
 <ul>
+  <li>
+    Y. Rudolph, S. G. Fadel, S. Mair, and U. Brefeld. Studying the Propagation of Information in VAE Decoders (abstract). Northern Lights Deep Learning Conference, 2022. (accepted)
+  </li>
+
   <li>
     S. G. Fadel, S. Mair, R. da Silva Torres, and U. Brefeld. <a href="https://link.springer.com/content/pdf/10.1007/s10182-021-00412-w.pdf">Contextual Movement Models based on Normalizing Flows</a>. AStA Advances in Statistical Analysis, Special Issue on Statistics in Sports, 2021.
     [<a href="https://link.springer.com/article/10.1007/s10182-021-00412-w">link</a>]
