@@ -7,10 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+<hr>
+
 ### Uppsala University
 <ul>
   <li><a href="https://uppsala.instructure.com/courses/46077">Statistical Machine Learning</a> (Spring 22)</li>
 </ul>
+
+<hr>
 
 ### Leuphana University of Lüneburg
 <ul>
