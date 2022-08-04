@@ -30,7 +30,7 @@ Furthermore, I received a Master of Science in computer science as well as a Bac
 
 I am interested in unsupervised learning, representation learning, representative subsets, (geometric) data summarization, generative modeling, probabilistic modeling, and statistical machine learning.
 
-
+<!--
 ### publications
 
 <ul>
@@ -74,7 +74,6 @@ I am interested in unsupervised learning, representation learning, representativ
   <li>
     M. Tavakol, S. Mair and K. Morik. <a href="http://ml3.leuphana.de/publications/ads2019.pdf">HyperUCB: Hyperparameter Optimization using Contextual Bandits</a>. ECML-PKDD Workshop on Automating Data Science, 2019.
     [<a href="https://link.springer.com/chapter/10.1007/978-3-030-43823-4_4">link</a>]
-    <!-- [<a style="color:inherit;" href="https://sites.google.com/view/autods">workshop</a>] -->
   </li>
 
   <li>
@@ -110,3 +109,4 @@ I am interested in unsupervised learning, representation learning, representativ
     [<a href="http://dl.acm.org/citation.cfm?doid=2756601.2756611">link</a>]
   </li>
 </ul>
+-->
