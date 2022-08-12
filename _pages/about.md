@@ -25,7 +25,7 @@ Since December 2021, I am a postdoctoral researcher at the [Department of Inform
 
 Prior to joining Uppsala University, I did my PhD at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 
-Furthermore, I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
+Furthermore, I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
 
 
 ### research interests
