@@ -10,7 +10,7 @@ profile:
   image: sebastian.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: Room 103254 @ <a style="text-decoration:none; color:inherit;" href="https://www.polacksbacken.uu.se/campus/nya-angstrom/">Ångströmlaboratoriet</a></p>
+    <p>Office: <a style="text-decoration:none; color:inherit;" href="https://link.mazemap.com/b5qzB6OS">Room 103254</a></p> @ <a style="text-decoration:none; color:inherit;" href="https://www.angstrom.uu.se/?languageId=1">Ångströmlaboratoriet</a></p>
 
 
 news: false  # includes a list of news items
