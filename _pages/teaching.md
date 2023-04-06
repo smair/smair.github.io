@@ -19,12 +19,12 @@ nav: true
 ### Leuphana University of Lüneburg
 <ul>
   <li>Advanced Machine Learning (Winter 17)</li>
-  <li>Deep Learning (Sommer 21)</li>
-  <li>Intelligent Data Analysis (Sommer 20)</li>
-  <li>Introduction to Intelligent Data Analysis (Sommer 18,19)</li>
+  <li>Deep Learning (Summer 21)</li>
+  <li>Intelligent Data Analysis (Summer 20)</li>
+  <li>Introduction to Intelligent Data Analysis (Summer 18,19)</li>
   <li>Learning from Data (Winter 16)</li>
   <li>Machine Learning and Data Mining (Winter 19,20)</li>
-  <li>Programming in Python (Sommer 16, Sommer 17, Winter 17, Sommer 18)</li>
+  <li>Programming in Python (Summer 16, Summer 17, Winter 17, Summer 18)</li>
   <li>Statistics for Computer Scientists (Winter 16,17,18,19,20)</li>
-  <li>Storage and Mining of Massive Datasets (Sommer 16,17,18,19,20)</li>
+  <li>Storage and Mining of Massive Datasets (Summer 16,17,18,19,20)</li>
 </ul>
