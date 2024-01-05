@@ -27,6 +27,25 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+
+        <!-- begin more badges -->
+        {% if entry.insub %}
+          <insub class="badge">In Submission</insub>
+        {% endif %}
+        {% if entry.oral %}
+          <award class="badge">Oral</award>
+        {% endif %}
+        {% if entry.award %}
+          <award class="badge">Award</award>
+        {% endif %}
+        {% if entry.workshop %}
+          <wksp class="badge">Workshop</wksp>
+        {% endif %}
+        {% if entry.abs %}
+          <abstract class="badge">Abstract</abstract>
+        {% endif %}
+        <!-- end more badges -->
+
         </div>
         {%- endif -%}
 

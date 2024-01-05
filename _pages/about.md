@@ -9,14 +9,14 @@ profile:
   align: right
   image: sebastian.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Office: <a style="text-decoration:none; color:inherit;" href="https://link.mazemap.com/b5qzB6OS">Room 103254</a></p> @ <a style="text-decoration:none; color:inherit;" href="https://www.angstrom.uu.se/?languageId=1">Ångströmlaboratoriet</a></p>
+  more_info: >
+    <p>Office: <a style="text-decoration:none; color:inherit;" href="https://link.mazemap.com/b5qzB6OS">Room 103254</a></p> @ <a style="text-decoration:none; color:inherit;" href="https://www.uu.se/en/campus/angstrom-laboratory?languageId=1">Ångströmlaboratoriet</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
+---
 
 ### about me
 
@@ -26,6 +26,7 @@ Prior to joining Uppsala University, I did my PhD at the [machine learning group
 
 Furthermore, I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
 
+<br>
 
 ### research interests
 
