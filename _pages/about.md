@@ -12,7 +12,6 @@ profile:
   address: >
     <p>Office: <a style="text-decoration:none; color:inherit;" href="https://link.mazemap.com/b5qzB6OS">Room 103254</a></p> @ <a style="text-decoration:none; color:inherit;" href="https://www.angstrom.uu.se/?languageId=1">Ångströmlaboratoriet</a></p>
 
-
 news: false  # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
