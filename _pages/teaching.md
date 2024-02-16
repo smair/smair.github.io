@@ -12,7 +12,7 @@ nav_order: 6
 ### Uppsala University
 <ul>
   <li>Large-Scale Optimization (<a href="https://uppsala.instructure.com/courses/84856">Autumn 23</a>)</li>
-  <li>Statistical Machine Learning (<a href="https://uppsala.instructure.com/courses/46077">Spring 22</a>, <a href="https://uppsala.instructure.com/courses/73255">Spring 23</a>, Spring 24)</li>
+  <li>Statistical Machine Learning (<a href="https://uppsala.instructure.com/courses/46077">Spring 22</a>, <a href="https://uppsala.instructure.com/courses/73255">Spring 23</a>, <a href="https://uppsala.instructure.com/courses/87869">Spring 24</a>)</li>
 </ul>
 
 <hr>
