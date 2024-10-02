@@ -9,6 +9,13 @@ nav_order: 6
 
 <hr>
 
+### Linköping University
+<ul>
+  <li>Machine Learning (<a href="https://studieinfo.liu.se/en/kurs/TDDE69">Autumn 24</a>)</li>
+</ul>
+
+<hr>
+
 ### Uppsala University
 <ul>
   <li>Large-Scale Optimization (<a href="https://uppsala.instructure.com/courses/84856">Autumn 23</a>)</li>
