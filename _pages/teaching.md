@@ -7,10 +7,13 @@ nav: true
 nav_order: 6
 ---
 
+Interested in writing a thesis under my supervision? Contact me!
+
 <hr>
 
 ### Linköping University
 <ul>
+  <li>Advanced Computational Statistics (<a href="https://www.adoptdesign.de/frankmillereu/adcompstat2025.html">Spring 25</a>)</li>
   <li>Machine Learning (<a href="https://studieinfo.liu.se/en/kurs/TDDE69">Autumn 24</a>)</li>
 </ul>
 
