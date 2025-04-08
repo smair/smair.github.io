@@ -1,9 +1,42 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"KAIS":
+  url: https://link.springer.com/journal/10115
+  color: "#009f36"
+
+"MachLearn":
+  url: https://link.springer.com/journal/10994
+  color: "#009f36"
+
+"Phys.Med.Biol.":
+  url: https://iopscience.iop.org/journal/0031-9155
+  color: "#009f36"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#009f36"
+
+"AISTATS":
+  url: https://aistats.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ECML":
+  url: https://ecmlpkdd.org/
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"LoG":
+  url: https://logconference.org/
+  color: "#00369f"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#00369f"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#00369f"
+
+"NLDL":
+  url: https://www.nldl.org/home
+  color: "#00369f"
+
+"preprint":
+  url: https://arxiv.org/
