@@ -1,3 +1,7 @@
+"alcacer":
+  - firstname: ["Aleix", "A.", "A. A.", "Aleix Alcacer"]
+    url: https://scholar.google.com/citations?user=-7oHis8AAAAJ
+
 "boubekki":
   - firstname: ["Ahcène", "A.", "A. B.", "Ahcène Boubekki"]
     url: https://scholar.google.com/citations?user=fpVjl4gAAAAJ
@@ -14,6 +18,10 @@
   - firstname: ["Maria", "M.", "M. B.", "Maria Bånkestad"]
     url: https://scholar.google.com/citations?user=4tKNCSkAAAAJ
 
+"epifanio":
+  - firstname: ["Irene", "I.", "I. E.", "Irene Epifanio"]
+    url: https://scholar.google.com/citations?user=RMWHA6QAAAAJ
+
 "fadel":
   - firstname: ["Samuel", "Samuel G", "S.", "S. G. F.", "Samuel G. Fadel", "Samuel G Fadel"]
     url: https://scholar.google.com/citations?user=IV7luZsAAAAJ
@@ -21,6 +29,10 @@
 "fay":
   - firstname: ["Dominik", "D.", "D. F.", "Dominik Fay"]
     url: https://scholar.google.com/citations?user=MbCnIkIAAAAJ
+
+"morup":
+  - firstname: ["Morten", "M.", "M. M.", "Morten Mørup"]
+    url: https://scholar.google.com/citations?user=RQonsgMAAAAJ
 
 "schon":
   - firstname: ["Thomas", "T.", "T. S.", "Thomas Schön"]
