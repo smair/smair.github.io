@@ -15,7 +15,9 @@ Interested in writing a thesis under my supervision? Contact me!
 
 <ul>
   <li>Advanced Computational Statistics (<a href="https://www.adoptdesign.de/frankmillereu/adcompstat2025.html">Spring 25</a>)</li>
+  <li>Introduction to Practical Machine Learning (<a href="https://studieinfo.liu.se/en/kurs/TDDE77">Spring 26</a>)</li>
   <li>Machine Learning (<a href="https://studieinfo.liu.se/en/kurs/TDDE69">Autumn 24</a>, <a href="https://studieinfo.liu.se/en/kurs/TDDE69">Autumn 25</a>)</li>
+  <li>Time Series and Sequence Learning (<a href="https://studieinfo.liu.se/en/kurs/732A80">Autumn 25</a>)</li>
 </ul>
 
 <hr>
