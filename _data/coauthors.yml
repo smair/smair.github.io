@@ -38,6 +38,10 @@
   - firstname: ["Thomas", "T.", "T. S.", "Thomas Schön"]
     url: https://scholar.google.com/citations?user=FUqUC2oAAAAJ
 
+"selvan":
+  - firstname: ["Raghavendra", "Raghav", "R.", "R. S.", "Raghavendra Selvan"]
+    url: https://scholar.google.com/citations?user=R9VBQ54AAAAJ
+
 "sjolund":
   - firstname: ["Jens", "J.", "J. S.", "Jens Sjölund"]
     url: https://scholar.google.com/citations?user=AlF2g-YAAAAJ
