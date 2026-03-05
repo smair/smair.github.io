@@ -27,7 +27,7 @@ latest_posts:
 
 ### about me
 
-I am an assistant professor at the [Division of Statistics and Machine Learning](https://liu.se/en/organisation/liu/ida/stima) at [Linköping University](https://liu.se/en), Sweden. In 2026, I obtained my docent qualification (Swedish Habilitation) at Linköping University. 
+I am an assistant professor at the [Division of Statistics and Machine Learning](https://liu.se/en/organisation/liu/ida/stima) at [Linköping University](https://liu.se/en), Sweden. In 2026, I obtained my docent qualification (Swedish Habilitation) at Linköping University. Furthermore, I am a member of [ELLIS](https://ellis.eu/).
 
 Previously, I was a postdoctoral researcher at the [Division of Systems and Control](https://www.uu.se/en/department/information-technology) at [Uppsala University](https://www.uu.se/en), where I was a member of the research group of [Jens Sjölund](https://jsjol.github.io/).
 I did my PhD at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](https://scholar.google.com/citations?user=oWmjswoAAAAJ&hl=en) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/). Prior to that, I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
