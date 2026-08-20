@@ -22,12 +22,20 @@
   url: https://ecmlpkdd.org/
   color: "#00369f"
 
+"FAccT":
+  url: https://facctconference.org/
+  color: "#00369f"
+
 "LoG":
   url: https://logconference.org/
   color: "#00369f"
 
 "ICML":
   url: https://icml.cc/
+  color: "#00369f"
+
+"IDA":
+  url: https://www.ida-society.org/symposia.php
   color: "#00369f"
 
 "NeurIPS":
