@@ -50,6 +50,10 @@
   - firstname: ["Maryam", "M.", "M. T.", "Maryam Tavakol"]
     url: https://scholar.google.com/citations?user=2ycXzoIAAAAJ
 
+"wilson":
+  - firstname: ["Sophia", "Sophia N.", "S.", "S. W.", "Sophia N. Wilson"]
+    url: https://scholar.google.com/citations?user=HPp3xmYAAAAJ
+
 "zhao":
   - firstname: ["Zheng", "Z.", "Z. Z.", "Zheng Zhao"]
     url: https://scholar.google.com/citations?user=soEnzAYAAAAJ
