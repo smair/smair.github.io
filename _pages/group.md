@@ -14,9 +14,16 @@ Interested in working with me? Contact me!
 ### Research Group
 
 <ul>
-  <li>Erik Raab, Research Engineer</li>
   <li>Anushka Kulkarni, PhD Student</li>
-  <li>TBA, PhD Student, hiring in progress</li>
+  <li>TBA, PhD Student, hiring completed</li>
+</ul>
+
+<hr>
+
+### Alumni
+
+<ul>
+  <li>Erik Raab, Research Engineer, now PhD student at Linköping University</li>
 </ul>
 
 <hr>
