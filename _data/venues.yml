@@ -14,6 +14,10 @@
   url: https://jmlr.org/tmlr/
   color: "#009f36"
 
+"TPAMI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#009f36"
+
 "AISTATS":
   url: https://aistats.org/
   color: "#00369f"
